@@ -18,6 +18,6 @@ git add -A
 git commit -m 'Website AutoDeploy'
 
 # if you are deploying to https://<USERNAME>.github.io
-# git push -f git@github.com:sagelga/sagelga.github.io.git master:gh-pages
+git push -f git@github.com:sagelga/sagelga.github.io.git master
 
 cd -
