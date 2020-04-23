@@ -17,6 +17,6 @@ git init
 git add -A
 git commit -m 'Website AutoDeploy'
 
-git push -f git@github.com:sagelga/sagelga.github.io.git master
+git push -f git@github.com:sagelga/sagelga.github.io.git gh-pages
 
 cd -
