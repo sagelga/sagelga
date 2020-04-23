@@ -3,7 +3,8 @@
 # Edit at https://www.gitignore.io/?templates=vue,vim,node,vuejs,macos,windows,dropbox,jetbrains+all
 
 ### Custom ###
-/.vuepress/dist/*
+# /.vuepress/dist/*
+/docs/.vuepress/dist/*
 
 ### Dropbox ###
 # Dropbox settings and caches

@@ -34,11 +34,11 @@ module.exports = {
     lastUpdated: 'Last Updated',
     nav: [
       { text: 'Home', link: '/' },
-      { text: 'Education', link: '/education.md' },
-      { text: 'Experience', link: '/experience.md' },
-      { text: 'Interests', link: '/interests.md' },
-      { text: 'Projects', link: '/project.md' },
-      { text: 'Skills', link: '/skill.md' },
+      { text: 'Education', link: '/education/' },
+      { text: 'Experience', link: '/experience/' },
+      { text: 'Interests', link: '/interests/' },
+      { text: 'Projects', link: '/project/' },
+      { text: 'Skills', link: '/skill/' },
 
     ]
   }
