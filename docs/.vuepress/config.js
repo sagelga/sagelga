@@ -1,11 +1,16 @@
 module.exports = {
   repo: 'sagelga/sagelga.github.io',
   // repoLabel: 'Repository',
+  title: 'This is me, sagelga',
+  description: 'Portfolio of me',
 
   // Official : https://vuepress.vuejs.org/config/#head
   head: [
     ['link', { rel: 'icon', href: 'https://avatars1.githubusercontent.com/u/44744915' }]
   ],
+
+  // Official: https://vuepress.vuejs.org/theme/default-theme-config.html#smooth-scrolling
+  smoothScroll: true,
 
   // Official : https://vuepress.vuejs.org/config/#markdown
   // markdown: {
@@ -34,12 +39,13 @@ module.exports = {
     lastUpdated: 'Last Updated',
     nav: [
       { text: 'Home', link: '/' },
-      { text: 'Education', link: '/education/' },
       { text: 'Experience', link: '/experience/' },
-      { text: 'Interests', link: '/interests/' },
       { text: 'Projects', link: '/project/' },
+      // { text: 'Projects', link: 'https://github.com/sagelga' },
       { text: 'Skills', link: '/skill/' },
-
+      { text: 'Education', link: '/education/' },
+      // { text: 'Interests', link: '/interests/' },
+      { text: 'Contact', link: '/contact/' },
     ]
   }
 
