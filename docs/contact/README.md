@@ -4,10 +4,11 @@ heroText: Contact
 tagline: ' '
 features:
 - title: via Email 
-  details: Please email me at hello@sagelga.com
+  details: Please email me at kunanon.srisuntiroj@gmail.com 
 - title: via SNS
-  details: You can search up my name in LinkedIn or Facebook and connect me up. 
-- title: via GitHub
-  details: Check out my GitHub repository and connect me up.
+  details: I am also in LinkedIn. You can connect me up that way.
 footer: Powered by VuePress | Copyright © 2016 - 2020 Kunanon Srisuntiroj
 ---
+
+Please do mind that I might reject suspecious connection requests on LinkedIn due to spammers.<br>
+Kindly leave me a message or customized connection requests and noted me that you are from this website.

@@ -6,5 +6,6 @@ tagline: ' '
 
 ## Undergraduate Degree
 *2016 - May 2020*<br>
-**Science Degree on Information Technology**<br>
-GPA 3.03<br> 
+Undergraduate Degree<br>
+**Bachelor of Science in Information Technology**<br>
+GPA 3.03 (pending)<br> 
