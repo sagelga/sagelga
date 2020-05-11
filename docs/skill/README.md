@@ -50,10 +50,10 @@ POS in terminal based interface is built with POS, analytics with prediction too
 Click [here](https://github.com/sagelga/ComPro_Project) to learn more.
 
 ## Other technical skills
-`Wordpress` `Docker` `Kubernetes` `LAMP` `PHP` `Digital Ocean`
+`Wordpress` `Docker` `Kubernetes` `LAMP` `PHP` `Digital Ocean` `VuePress`
 
 ## Working Skills
 `Agile` `Lean` `SDLC` `MVP`
 
 ## Tools familiar with
-`SPSS Statistics` `RapidMiner` `Microsoft Word` `Microsoft Excel` `Microsoft PowerPoint` `Google Docs` `Google Sheets` `Google Slides` `Google Forms` `Google Apps Script` `Notion` `Atlassian Trello` `Asana` `YouTrack` `Jetbrains Space` `Visual Studio Code` `IntelliJ IDEA` `Google Drive` `Micrsoft OneDrive` `Dropbox` `Box` `Microsoft Teams` `Microsoft SharePoint` `Microsoft PowerFlow` `Synology NAS` `Xcode` `Android Studio` `GitHub` `GitLab` `Atlassian BitBucket`
+`SPSS Statistics` `RapidMiner` `Microsoft Word` `Microsoft Excel` `Microsoft PowerPoint` `Google Docs` `Google Sheets` `Google Slides` `Google Forms` `Google Apps Script` `Notion` `Atlassian Trello` `Asana` `YouTrack` `Jetbrains Space` `Visual Studio Code` `IntelliJ IDEA` `Google Drive` `Micrsoft OneDrive` `Dropbox` `Box` `Microsoft Teams` `Microsoft SharePoint` `Microsoft PowerFlow` `Synology NAS` `Xcode` `GitHub` `GitLab` `Atlassian BitBucket`

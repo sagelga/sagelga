@@ -6,7 +6,7 @@ tagline: ' '
 
 ## Work Experience
 *2019*<br>
-Cooperative Studies at Essilor Manufacturing (Thailand)<br>
+Cooperative Studies at Essilor Manufacturing (Thailand) / International Management and Services (Thailand) Co., Ltd. <br>
 For projects done during the Cooperative Studies, please click [here]()
 
 ## Volunteer

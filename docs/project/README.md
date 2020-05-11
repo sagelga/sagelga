@@ -2,12 +2,12 @@
 home: true
 heroText: Projects
 tagline: ' '
-actionText: Seen on GitHub →
+actionText: More on GitHub →
 actionLink: 'https://github.com/sagelga'
 ---
 # Featured projects
 Here's are some of the projects that I have done during the university course.<br>
-For all of the project that I have contributed on, please check onto GitHub.
+For all of the project that I have contributed on, please check on my GitHub page.
 
 ## Point of Sales (POS)
 Command-line based software. Packed with Analytics and Stock managements.<br>
