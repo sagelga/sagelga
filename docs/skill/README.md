@@ -26,15 +26,15 @@ As part of the project to automate workflow.<br>
 To see the related project, click [here](github.com)
 
 ### `Amazon Web Service`
-Learned 'Cloud Architect' course.<br>
+Completed 'AWS Certified Solutions Architect - Associate' course.<br>
 Including teaching new students to learn how to use AWS for their own web server project.
 
 ### `R`
 We create the project [data-journal](https://github.com/sagelga/data-journal), a Thai food interests in United States<br>
 Using the data from FiveThirtyEight foodWorldCup dataset.   
 
-### `VueJS`
-Familiar with VueJS during the production of [oh-sheet](https://github.com/sagelga/oh-sheet) project.
+### `Vue JS`
+Familiar with Vue JS during the production of [oh-sheet](https://github.com/sagelga/oh-sheet) project.
 
 ### `PL/SQL`
 Familiar with PL/SQL to create an automatic report generation inside of Oracle ERP.<br>
