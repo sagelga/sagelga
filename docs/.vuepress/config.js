@@ -5,9 +5,9 @@ module.exports = {
   description: 'Portfolio of me',
 
   // Official : https://vuepress.vuejs.org/config/#head
-  head: [
-    ['link', { rel: 'icon', href: 'https://avatars1.githubusercontent.com/u/44744915' }]
-  ],
+  //   head: [
+  //     ['link', { rel: 'icon', href: 'https://avatars1.githubusercontent.com/u/44744915' }]
+  //   ],
 
   // Official: https://vuepress.vuejs.org/theme/default-theme-config.html#smooth-scrolling
   smoothScroll: true,
