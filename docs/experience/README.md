@@ -29,5 +29,9 @@ Leading in initiation of Thai language 'language pack' for Thai language user
 In 'Website in PHP and JS' competition on IT Open House 2018.
 
 *2017*<br>
-**Teaching Assistance**<br>
-In practicing new student to learn how to code in Python3 and practicing Problem Solving skills.
+**Education Team Member**<br>
+In practicing new student to learn how to code in Python3, practicing Problem Solving skills. Co-Founder of the ITKMITL Pre-programming course [on YouTube](https://www.youtube.com/c/PreProgrammingITKMITL/)
+
+*2017*<br>
+**Teaching Director**<br>
+Teaching new students on Cloud Service and Web Servers via Amazon Web Service.
