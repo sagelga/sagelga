@@ -18,12 +18,10 @@ Used and familarized during Cooperative Studies at Essilor Manufacturing (Thaila
 Mostly used with Google Apps Script. 
 
 ### `Python`
-Use Python to create a data analysis report as a mini-project for the learning course.<br>
-Click [here](https://github.com/sagelga/PSIT_Project) to learn more.
+Use Python to create a data analysis report as a [mini-project](https://github.com/sagelga/PSIT_Project) for the learning course.
 
 ### `Google Apps Script`
-As part of the project to automate workflow.<br>
-To see the related project, click [here](github.com)
+As part of the [project](github.com) to automate workflow.
 
 ### `Amazon Web Service`
 Completed 'AWS Certified Solutions Architect - Associate' course.<br>
@@ -33,7 +31,7 @@ Including teaching new students to learn how to use AWS for their own web server
 We create the project [data-journal](https://github.com/sagelga/data-journal), a Thai food interests in United States<br>
 Using the data from FiveThirtyEight foodWorldCup dataset.   
 
-### `Vue JS`
+### `VueJS`
 Familiar with Vue JS during the production of [oh-sheet](https://github.com/sagelga/oh-sheet) project.
 
 ### `PL/SQL`
@@ -45,9 +43,8 @@ Familiar with Java to create game run in Java using BadLogic LibGDX library.<br>
 We create the project [trashmelody](https://github.com/sagelga/trashmelody), a trash classification game as the result.
 
 ### `C`
-Familiar with C duing the creation of the project Point of Sales.<br>
-POS in terminal based interface is built with POS, analytics with prediction tool, customer loyalty programme, inventory management and profit management.<br>
-Click [here](https://github.com/sagelga/ComPro_Project) to learn more.
+Familiar with C duing the creation of the [project Point of Sales](https://github.com/sagelga/ComPro_Project).<br>
+POS in terminal based interface is built with POS, analytics with prediction tool, customer loyalty programme, inventory management and profit management.
 
 ## Other technical skills
 `Wordpress` `Docker` `Kubernetes` `LAMP` `PHP` `Digital Ocean` `VuePress`
