@@ -4,7 +4,7 @@ heroText: Skills
 tagline: ' '
 ---
 
-## Technical Skills
+## Featured Technical Skills
 ### `SQL`
 Understand most of the generic SQL language queries.<br>
 Used to work with functions and queries on OracleSQL 
@@ -52,8 +52,7 @@ Click [here](https://github.com/sagelga/ComPro_Project) to learn more.
 ## Other technical skills
 `Wordpress` `Docker` `Kubernetes` `LAMP` `PHP` `Digital Ocean` `VuePress`
 
-## Working Skills
-`Agile` `Lean` `SDLC` `MVP`
-
 ## Tools familiar with
-`SPSS Statistics` `RapidMiner` `Microsoft Word` `Microsoft Excel` `Microsoft PowerPoint` `Google Docs` `Google Sheets` `Google Slides` `Google Forms` `Google Apps Script` `Notion` `Atlassian Trello` `Asana` `YouTrack` `Jetbrains Space` `Visual Studio Code` `IntelliJ IDEA` `Google Drive` `Micrsoft OneDrive` `Dropbox` `Box` `Microsoft Teams` `Microsoft SharePoint` `Microsoft PowerFlow` `Synology NAS` `Xcode` `GitHub` `GitLab` `Atlassian BitBucket`
+`SPSS Statistics` `RapidMiner` `Microsoft Word` `Microsoft Excel` `Microsoft PowerPoint` `Google Docs` `Google Sheets` `Google Slides` `Google Forms` `Google Apps Script` `Notion` `Atlassian Trello` `Asana` `Jetbrains YouTrack` `Jetbrains Space` `Visual Studio Code` `Jebrains IntelliJ IDEA` `PyCharm` `Jetbrains CLion` `Jupyter Lab` `Google Colaboratory` `Xcode` `Google Drive` `Micrsoft OneDrive` `Dropbox` `Box` `Microsoft Teams` `Microsoft SharePoint` `Microsoft PowerFlow` `Synology NAS` `GitHub` `GitLab` `Atlassian BitBucket`
+
+and counting...

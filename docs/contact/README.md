@@ -12,5 +12,5 @@ features:
 footer: Powered by VuePress | Copyright © 2016 - 2020 Kunanon Srisuntiroj
 ---
 
-Please do mind that I might reject suspecious connection/friend requests on LinkedIn or SNS due to spammers.<br>
-Kindly leave me a message or customized connection requests and noted me that you are from this website.
+Please do mind that I might reject Connect Request/Friend Request on LinkedIn or SNS due to spammers.<br>
+If you would like to chat business, please contact me directly via email address, with a words that you are from this website.

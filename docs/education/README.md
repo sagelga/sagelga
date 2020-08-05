@@ -4,7 +4,7 @@ heroText: Education
 tagline: ' '
 ---
 
-2016 - May 2020<br>
+2019<br>
 **Undergraduate Degree**<br>
-*Bachelor of Science in Information Technology*<br>
-GPA 3.03 (pending)<br> 
+Bachelor of Science, *Information Technology*<br>
+GPA 3.07<br> 
