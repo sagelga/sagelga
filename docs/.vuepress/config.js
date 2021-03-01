@@ -39,9 +39,8 @@ module.exports = {
     lastUpdated: 'Last Updated',
     nav: [
       { text: 'Home', link: '/' },
-      { text: 'Experience', link: '/experience/' },
-      { text: 'Projects', link: '/project/' },
-      // { text: 'Projects', link: 'https://github.com/sagelga' },
+      { text: 'Featured Projects', link: '/project/' },
+      { text: 'Working Experience', link: '/experience/' },
       { text: 'Skills', link: '/skill/' },
       { text: 'Education', link: '/education/' },
       // { text: 'Interests', link: '/interests/' },

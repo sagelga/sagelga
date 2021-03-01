@@ -10,18 +10,20 @@ tagline: ' '
 at Essilor Manufacturing (Thailand) / International Management and Services (Thailand) Co., Ltd. <br>
 <!-- For projects done during the Cooperative Studies, please click [here]() -->
 
+<br/>
+
 ## Hobbit
 *2019 - current*<br>
 **Writer**<br>
 Writing Medium blog about Technology stacks, world trends and lifestyle 
 
+*2019 - current*<br>
+**Thai Language Telegram Translator Lead**<br>
+Leading in initiation of Thai language 'language pack' for Thai language user
+
 *2017 - current*<br>
 **Open Source Contributor**<br>
 Mostly with faculty-based work or for IT student to use.
-
-*2020 - current*<br>
-**Thai Language Telegram Translator Lead**<br>
-Leading in initiation of Thai language 'language pack' for Thai language user
 
 ## Volunteer
 *2018*<br>
