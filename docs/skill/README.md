@@ -60,7 +60,7 @@ POS in terminal based interface is built with POS, analytics with prediction too
 |Category|Service Name|
 |-|-|
 |Project Management|`Trello` `Asana` `Jetbrains YouTrack` `Jetbrains Space` `Jira`|
-|Knowledge Management|`Notion`|
+|Knowledge Management|`Notion` `Gitbook`|
 |Collaboration Tools|`Microsoft Teams` `Slack` `Micrsoft OneDrive` `Micrsoft Sharepoint` `Google Drive` `Dropbox` `Box`|
 |Work Automation|`Microsoft PowerFlow`|
 |Code Collaboration|`GitHub` `GitLab` `Atlassian BitBucket`|
