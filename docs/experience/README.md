@@ -32,8 +32,9 @@ In 'Website in PHP and JS' competition on IT Open House 2018.
 
 *2017*<br>
 **Education Team Member**<br>
-In practicing new student to learn how to code in Python3, practicing Problem Solving skills. Co-Founder of the ITKMITL Pre-programming course [on YouTube](https://www.youtube.com/c/PreProgrammingITKMITL/)
+In practicing new student to learn how to code in Python3, practicing Problem Solving skills.<br>
+Co-Founder of the ITKMITL Pre-programming course [on YouTube](https://www.youtube.com/c/PreProgrammingITKMITL/) for on-demand online Python course, provisionned for infinite learning possibilities.
 
 *2017*<br>
 **Teaching Director**<br>
-Teaching new students on Cloud Service and Web Servers via Amazon Web Service.
+Teaching new students on how the Cloud Service using Amazon Web Service.

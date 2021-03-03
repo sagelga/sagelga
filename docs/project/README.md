@@ -1,28 +1,37 @@
 ---
 home: true
 heroText: Projects
-tagline: For all of the project that I have contributed on, please check on my GitHub page.
-actionText: More on GitHub →
+tagline: Here's what I been worked on.
+actionText: View all on GitHub →
 actionLink: 'https://github.com/sagelga'
 ---
+## Approval Workflow
+Approval workflow script for Google Workspace. Powered by Google Apps Script.<br>
+Repository : [https://github.com/sagelga/approval-workflow](https://github.com/sagelga/approval-workflow)<br>
+Documentation : [https://docs.sagelga.com/approval-workflow/](https://docs.sagelga.com/approval-workflow/)<br>
 
-**Point of Sales (POS)**<br>
+## Point of Sales (POS)
 Full-functioned Point of Sale (POS) system with sales, analytics and predictive tool.<br>
-[https://github.com/sagelga/ComPro_Project](https://github.com/sagelga/ComPro_Project)
+Repository : [https://github.com/sagelga/ComPro_Project](https://github.com/sagelga/ComPro_Project)<br>
+Documentation : [https://docs.sagelga.com/compro-project/](https://docs.sagelga.com/compro-project/)
 
-**Thai resteraunt analysis**<br>
-Trying to find the cause of lots of Thai resteraunt in United States.
+## Online Space Reservation System
+System to reserve space or rooms inside the University. A one-stop-service for all reservations.<br>
+Repository : [https://github.com/itforge-eros/panda-website](https://github.com/itforge-eros/panda-website)<br>
+Documentation : [https://docs.sagelga.com/project-panda/](https://docs.sagelga.com/project-panda/)
 
-**Multregressions on Body Fat**<br>
-Search on regressions on Body Fat and other factor using SPSS (Data set from online source)
+## Oh Sheet!
+Sharing lecture sheet made easy.<br>
+Repository : [https://github.com/sagelga/oh-sheet](https://github.com/sagelga/oh-sheet)
 
-**Online Space Reservation System**<br>
-System to reserve space or rooms inside the University. Use for finding and reserve the room in self-serve way.<br>
-[https://space.itforge.io](https://space.itforge.io)
+## Trash Melody
+A rhythm-action Java game, fusioned with trash classification<br>
+Repository : [https://github.com/sagelga/trashmelody](https://github.com/sagelga/trashmelody)<br>
+Documentation : [https://docs.sagelga.com/trash-melody/](https://docs.sagelga.com/trash-melody/)
 
-**Oh Sheet!**
-Sharing lecture sheet made easy
+## Thai resteraunt analysis
+Trying to find the cause of lots of Thai resteraunt in United States.<br>
+Repository : [hhttps://github.com/sagelga/data-journal](https://github.com/sagelga/data-journal)
 
-**Trash Melody**<br>
-A rhythm-action Java game, fusioned with trash classification
-
+## Multregressions on Body Fat
+Search on regressions on Body Fat and other factor using SPSS (Data set from online source)<br>
