@@ -1,4 +1,5 @@
 #!/usr/bin/env sh
+## Manually deploying script
 
 # abort on errors
 set -e

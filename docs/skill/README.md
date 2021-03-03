@@ -61,11 +61,11 @@ POS in terminal based interface is built with POS, analytics with prediction too
 |-|-|
 |Project Management|`Trello` `Asana` `Jetbrains YouTrack` `Jetbrains Space` `Jira`|
 |Knowledge Management|`Notion` `Gitbook`|
-|Collaboration Tools|`Microsoft Teams` `Slack` `Micrsoft OneDrive` `Micrsoft Sharepoint` `Google Drive` `Dropbox` `Box`|
+|Collaboration Tools|`Microsoft Teams` `Slack` `Micrsoft OneDrive` `Micrsoft Sharepoint` `Google Drive` `Dropbox`|
 |Work Automation|`Microsoft PowerFlow`|
 |Code Collaboration|`GitHub` `GitLab` `Atlassian BitBucket`|
 |Data Analytics|`SPSS Statistics` `RapidMiner`|
-|Development Tools| `Visual Studio Code` `Jebrains IntelliJ IDEA` `Jupyter Lab` `Google Colaboratory` `Xcode`|
+|Development Tools| `Visual Studio Code` `Jebrains IntelliJ IDEA` `Jupyter Lab` `Google Colaboratory` `Xcode` `Oracle SQL Developer`|
 |Office Tools|`Microsoft Word` `Microsoft Excel` `Microsoft PowerPoint` `Google Docs` `Google Sheets` `Google Slides` `Google Forms` |
 
-and counting...
+and growing...
