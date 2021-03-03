@@ -2,6 +2,7 @@
 home: true
 heroText: Experience
 tagline: ' '
+footer: Copyright © 2021 Kunanon Srisuntiroj
 ---
 
 ## Work Experience

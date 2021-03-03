@@ -4,6 +4,7 @@ heroText: Projects
 tagline: Here's what I been worked on.
 actionText: View all on GitHub →
 actionLink: 'https://github.com/sagelga'
+footer: Copyright © 2021 Kunanon Srisuntiroj
 ---
 ## Approval Workflow
 Approval workflow script for Google Workspace. Powered by Google Apps Script.<br>

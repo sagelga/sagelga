@@ -2,6 +2,7 @@
 home: true
 heroText: Skills
 tagline: ' '
+footer: Copyright © 2021 Kunanon Srisuntiroj
 ---
 
 ## Featured Technical Skills
