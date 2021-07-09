@@ -1,7 +1,7 @@
 ---
 home: true
 heroText: Projects
-tagline: Here's what I been worked on.
+tagline: Here's what I have worked on.
 actionText: View all on GitHub →
 actionLink: 'https://github.com/sagelga'
 footer: Copyright © 2021 Kunanon Srisuntiroj

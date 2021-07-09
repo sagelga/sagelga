@@ -16,7 +16,7 @@ at Essilor Manufacturing (Thailand) / International Management and Services (Tha
 ## Hobbit
 *2019 - current*<br>
 **Writer**<br>
-Writing Medium blog about Technology stacks, world trends and lifestyle 
+Writing Medium blog about Technology stacks, world trends and lifestyle at [blog.sagelga.com](https://blog.sagelga.com)
 
 *2019 - current*<br>
 **Thai Language Telegram Translator Lead**<br>
