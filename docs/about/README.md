@@ -1,6 +1,6 @@
 ---
 home: true
-heroText: About
+heroText: About Me
 tagline: ' '
 footer: Copyright © 2021 Kunanon Srisuntiroj
 ---
