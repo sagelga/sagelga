@@ -37,7 +37,8 @@ module.exports = {
   themeConfig: {
     search: false,
     lastUpdated: 'Last Updated',
-    nav: [{
+    contributors: true,
+    navbar: [{
         text: 'Home',
         link: '/'
       },

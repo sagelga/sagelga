@@ -16,15 +16,15 @@ at Essilor Manufacturing (Thailand) / International Management and Services (Tha
 ## Hobbit
 *2019 - current*<br>
 **Writer**<br>
-Writing Medium blog about Technology stacks, world trends and lifestyle at [blog.sagelga.com](https://blog.sagelga.com)
+Writing Explaination and daily news blog; including technology updates, gadgets and lifestyle content. Visit us at [byteside.one](https://byteside.one).
 
 *2019 - current*<br>
 **Thai Language Telegram Translator Lead**<br>
-Leading in initiation of Thai language 'language pack' for Thai language user
+Initiative for Telegram Translation team for Thai language pack.
 
 *2017 - current*<br>
 **Open Source Contributor**<br>
-Mostly with faculty-based work or for IT student to use.
+Spreading from what I normally use and what I really admire.
 
 ## Volunteer
 *2018*<br>
