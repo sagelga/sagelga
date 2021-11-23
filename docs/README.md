@@ -3,12 +3,34 @@ home: true
 heroText: Hello!
 heroImage: https://avatars3.githubusercontent.com/u/13056824?s=150
 tagline: 'Welcome to my personal website.'
-actionText: Get Started →
-actionLink: /project/
+actions:
+  - text: About
+    link: /about/
+    type: secondary
+  - text: Projects
+    link: /project/
+    type: secondary
+  - text: Experiences
+    link: /experience/
+    type: secondary
+  - text: Skills
+    link: /skill/
+    type: secondary
+  - text: Education
+    link: /education/
+    type: secondary
+  - text: Contacts
+    link: /contact/
+    type: secondary
 footer: Copyright © 2021 Kunanon Srisuntiroj
 ---
 
-::: tip DOCUMENTATION FOR DEVELOPERS
-For developers looking for code documentation, visit [docs.sagelga.com](https://docs.sagelga.com)
+## Other Website
+::: tip Byteside
+News and deep-down reviews is now on [byteside.one](https://byteside.one/)!
+:::
+
+::: tip Docs.sagelga.com
+For developers looking for code documentation for all of my repositories, visit [docs.sagelga.com](https://docs.sagelga.com)
 :::
 

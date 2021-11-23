@@ -28,8 +28,6 @@ As part of the [project](github.com) to automate workflow.
 Completed 'AWS Certified Solutions Architect - Associate' course.<br>
 Including teaching new students to learn how to use AWS for their own web server project.
 
-</br>
-
 ## Other Technical Skills
 ### `Swift`
 Newly learned during COVID-19 pandemic.<br>
@@ -50,12 +48,10 @@ We create the project [trashmelody](https://github.com/sagelga/trashmelody), a t
 Familiar with C duing the creation of the project [Point of Sales](https://github.com/sagelga/ComPro_Project).<br>
 POS in terminal based interface is built with POS, analytics with prediction tool, customer loyalty programme, inventory management and profit management.
 
-</br>
 
 ## Other technical skills
 `Wordpress` `Docker` `LAMP` `VuePress`
 
-</br>
 
 ## Tools familiar with
 | Category             | Service Name                                                                                                           |

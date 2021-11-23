@@ -20,11 +20,11 @@ Writing Explaination and daily news blog; including technology updates, gadgets 
 
 *2019 - current*<br>
 **Thai Language Telegram Translator Lead**<br>
-Initiative for Telegram Translation team for Thai language pack.
+Initiator for Thai language on Telegram Thai translation pack. Currently having 500+ users in Telegram group and 5,000+ translated word.
 
 *2017 - current*<br>
 **Open Source Contributor**<br>
-Spreading from what I normally use and what I really admire.
+Contributes on fan-made Open Source project to spread what I admire to all.
 
 ## Volunteer
 *2018*<br>
@@ -34,7 +34,7 @@ In 'Website in PHP and JS' competition on IT Open House 2018.
 *2017*<br>
 **Education Team Member**<br>
 In practicing new student to learn how to code in Python3, practicing Problem Solving skills.<br>
-Co-Founder of the ITKMITL Pre-programming course [on YouTube](https://www.youtube.com/c/PreProgrammingITKMITL/) for on-demand online Python course, provisionned for infinite learning possibilities.
+Starts for IT KMITL Python Pre-programming course [on YouTube](https://www.youtube.com/c/PreProgrammingITKMITL/) for on-demand online Python course, provisionned for infinite learning possibilities.
 
 *2017*<br>
 **Teaching Director**<br>
