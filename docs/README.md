@@ -30,7 +30,7 @@ footer: Copyright © 2021 Kunanon Srisuntiroj
 News and deep-down reviews is now on [byteside.one](https://byteside.one/)!
 :::
 
-::: tip Docs.sagelga.com
+::: tip Documentation
 For developers looking for code documentation for all of my repositories, visit [docs.sagelga.com](https://docs.sagelga.com)
 :::
 

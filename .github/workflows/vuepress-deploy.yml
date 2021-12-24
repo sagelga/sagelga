@@ -30,4 +30,4 @@ jobs:
           TARGET_BRANCH: gh-pages
           BUILD_SCRIPT: yarn build
           BUILD_DIR: docs/.vuepress/dist/
-          CNAME: sagelga.com
+          CNAME: www.sagelga.com
