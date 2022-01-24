@@ -43,7 +43,7 @@ export default defineUserConfig<DefaultThemeOptions>({
 
   plugins: [
     ['@vuepress/plugin-google-analytics', {
-      id: 'G-BTF0LX3HTD'
+      id: 'G-G5XLFB3TZH'
     }
     ],
     // ['@vuepress/plugin-search', {
