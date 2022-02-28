@@ -297,7 +297,7 @@
     "@vuepress/core" "2.0.0-beta.35"
     execa "^5.1.1"
 
-"@vuepress/plugin-google-analytics@^2.0.0-beta.35":
+"@vuepress/plugin-google-analytics@next":
   version "2.0.0-beta.35"
   resolved "https://registry.yarnpkg.com/@vuepress/plugin-google-analytics/-/plugin-google-analytics-2.0.0-beta.35.tgz#ddce4457e6ae2a3b544ef0d6c8fc9458585aba3c"
   integrity sha512-eCQspXuuCYqoZUY8AYU9oP0fQelfk7LWSgDIo2PYlA7GlZUBnAbOohPONSrsW+Ox9EvvDo9eQ75sACVBwsK5cw==
@@ -346,7 +346,7 @@
     "@vuepress/core" "2.0.0-beta.35"
     prismjs "^1.26.0"
 
-"@vuepress/plugin-search@^2.0.0-beta.35":
+"@vuepress/plugin-search@next":
   version "2.0.0-beta.35"
   resolved "https://registry.yarnpkg.com/@vuepress/plugin-search/-/plugin-search-2.0.0-beta.35.tgz#390a7b448335e004025b29065b902e6d26cd640d"
   integrity sha512-Z2c26zaRDfoRcJiHbmOLeReqKTLUQufmCwol7pvRMGzDUi2bJ8/+6tDNRs62Cuavpao7mnqIW2kPuzIaLP2S7g==
@@ -1467,7 +1467,7 @@ vuepress-vite@2.0.0-beta.35:
     "@vuepress/core" "2.0.0-beta.35"
     "@vuepress/theme-default" "2.0.0-beta.35"
 
-vuepress@^2.0.0-beta.35:
+vuepress@next:
   version "2.0.0-beta.35"
   resolved "https://registry.yarnpkg.com/vuepress/-/vuepress-2.0.0-beta.35.tgz#b5b0a36035e3f8f2aeb0beb1bf9ae976339fdf1e"
   integrity sha512-WMuL1s7DeyWRBFaByYMDSF4n9K/asLQXW1OJL9yxyTFmTl/VGs3llEjBqwbLhSmktz2lBlq67RtDLjVTE8PJPA==
