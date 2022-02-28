@@ -6,17 +6,6 @@ export default defineUserConfig<DefaultThemeOptions>({
   title: 'This is me, sagelga',
   description: 'Portfolio of me',
 
-  // head: [
-  //   ['link', {
-  //     rel: 'stylesheet',
-  //     href: 'https://cdn.jsdelivr.net/npm/katex@0.11.1/dist/katex.min.css'
-  //   }],
-  //   ['link', {
-  //     rel: 'stylesheet',
-  //     href: 'https://cdn.jsdelivr.net/github-markdown-css/2.2.1/github-markdown.css'
-  //   }]
-  // ],
-
   // https://v2.vuepress.vuejs.org/reference/default-theme/config.html
   theme: '@vuepress/theme-default',
   themeConfig: {
@@ -27,17 +16,17 @@ export default defineUserConfig<DefaultThemeOptions>({
     navbar: navbar.en,
     sidebar: sidebar.en,
 
+    repo: 'sagelga/sagelga',
+    repoLabel: 'GitHub',
+
     lastUpdated: true,
     lastUpdatedText: 'Last Update (UTC)',
 
     editLink: true,
-    editLinkText: 'Report an Issue',
+    eidtLinkText: 'Edit this page',
 
-    contributors: true,
-    contributorsText: 'Contributor(s)',
-
-    docsRepo: 'sagelga/sagelga',
-    docsDir: 'docs',
+    docsRepo: 'sagelga/documentation',
+    docsDir: 'docs/sagelga',
     docsBranch: 'main',
   },
 

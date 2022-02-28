@@ -2,7 +2,7 @@
 home: true
 heroText: Experience
 tagline: ' '
-footer: Copyright © 2021 Kunanon Srisuntiroj
+footer: Copyright © 2019-2022 Kunanon Srisuntiroj
 ---
 
 ## Work Experience
@@ -15,7 +15,7 @@ at Essilor Manufacturing (Thailand) / International Management and Services (Tha
 
 ## Hobbit
 *2019 - current*<br>
-**Writer**<br>
+**Writer and Curator**<br>
 Writing Explaination and daily news blog; including technology updates, gadgets and lifestyle content. Visit us at [byteside.one](https://byteside.one).
 
 *2019 - current*<br>

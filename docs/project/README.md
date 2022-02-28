@@ -4,19 +4,19 @@ heroText: Projects
 tagline: Here's what I have worked on.
 actionText: View all on GitHub →
 actionLink: 'https://github.com/sagelga'
-footer: Copyright © 2021 Kunanon Srisuntiroj
+footer: Copyright © 2019-2022 Kunanon Srisuntiroj
 ---
 ## Byteside.one
 Website/Blog about Gaming, Technology, Analysis with deep-down informations and what-you-need-to-know genre.
 
-- We are live in [byteside.one](https://byteside.one/)
+- Website: [byteside.one](https://byteside.one/)
 
-## Docs.sagelga.com
+## Documentation
 Documentation website for all of my projects.
 
 - Website: [docs.sagelga.com](https://docs.sagelga.com/)
 
-## Learn.sagelga.com
+## Cheatsheet
 University cheatsheet archive, now made for knowledge repository.
 
 - Website: [learn.sagelga.com](https://learn.sagelga.com/)
@@ -27,7 +27,7 @@ Approval workflow script for Google Workspace, powered by Google Apps Script.
 - Repository : [https://github.com/sagelga/approval-workflow](https://github.com/sagelga/approval-workflow)
 - Documentation : [https://docs.sagelga.com/approval-workflow/](https://docs.sagelga.com/approval-workflow/)
 
-## Point of Sales (POS)
+## Point of Sales (POS) System
 Full-functioned Point of Sale (POS) system with sales, analytics and predictive tool.
 
 - Repository : [https://github.com/sagelga/ComPro_Project](https://github.com/sagelga/ComPro_Project)
@@ -37,12 +37,13 @@ Full-functioned Point of Sale (POS) system with sales, analytics and predictive 
 System to reserve space or rooms inside the University. A one-stop-service for all reservations.
 
 - Repository : [https://github.com/itforge-eros/panda-website](https://github.com/itforge-eros/panda-website)
-- Documentation : [https://docs.sagelga.com/project-panda/](https://docs.sagelga.com/project-panda/)
+- Documentation : [https://docs.sagelga.com/project-panda/](https://docs.sagelga.com/panda/)
 
 ## Oh Sheet!
 Sharing lecture sheet made easy.
 
 - Repository : [https://github.com/sagelga/oh-sheet](https://github.com/sagelga/oh-sheet)
+- Documentation : [https://docs.sagelga.com/oh-sheet/](https://docs.sagelga.com/oh-sheet/)
 
 ## Trash Melody
 A rhythm-action Java game, fusioned with trash classification

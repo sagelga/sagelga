@@ -1,7 +1,7 @@
 ---
 home: true
 heroText: About Me
-tagline: ' '
-footer: Copyright © 2021 Kunanon Srisuntiroj
+tagline: '< Work in Progress >'
+footer: Copyright © 2019-2022 Kunanon Srisuntiroj
 ---
 

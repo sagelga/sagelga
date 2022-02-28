@@ -2,7 +2,7 @@
 home: true
 heroText: Education
 tagline: ' '
-footer: Copyright © 2021 Kunanon Srisuntiroj
+footer: Copyright © 2019-2022 Kunanon Srisuntiroj
 ---
 
 2020<br>

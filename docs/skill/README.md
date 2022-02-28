@@ -2,7 +2,7 @@
 home: true
 heroText: Skills
 tagline: ' '
-footer: Copyright © 2021 Kunanon Srisuntiroj
+footer: Copyright © 2019-2022 Kunanon Srisuntiroj
 ---
 
 ## Featured Technical Skills
@@ -56,12 +56,12 @@ POS in terminal based interface is built with POS, analytics with prediction too
 ## Tools familiar with
 | Category             | Service Name                                                                                                           |
 | -------------------- | ---------------------------------------------------------------------------------------------------------------------- |
-| Project Management   | `Trello` `Asana` `Jetbrains YouTrack` `Jetbrains Space` `Jira`                                                         |
-| Knowledge Management | `Notion` `Gitbook`                                                                                                     |
-| Collaboration Tools  | `Microsoft Teams` `Slack` `Micrsoft OneDrive` `Micrsoft Sharepoint` `Google Drive` `Dropbox`                           |
+| Project Management   | `Trello` `Asana` `Jetbrains YouTrack` `Jetbrains Space` `Microsoft Projects` `Atlassian Jira` `Notion` `Clockify`                                                        |
+| Knowledge Management | `Notion` `Gitbook` `VuePress`                                                                                                    |
+| Collaboration Tools  | `Microsoft Teams` `Slack` `Micrsoft OneDrive` `Micrsoft SharePoint` `Google Drive` `Dropbox`                           |
 | Work Automation      | `Microsoft PowerFlow`                                                                                                  |
-| Code Collaboration   | `GitHub` `GitLab` `Atlassian BitBucket`                                                                                |
-| Data Analytics       | `SPSS Statistics` `RapidMiner`                                                                                         |
+| Code Collaboration   | `GitHub` `GitHub Actions` `GitLab` `Atlassian BitBucket`                                                                                |
+| Data Analytics       | `Google Analytics` `Google Search Console` `SPSS Statistics` `RapidMiner`                                                                                         |
 | Development Tools    | `Visual Studio Code` `Jebrains IntelliJ IDEA` `Jupyter Lab` `Google Colaboratory` `Xcode` `Oracle SQL Developer`       |
 | Office Tools         | `Microsoft Word` `Microsoft Excel` `Microsoft PowerPoint` `Google Docs` `Google Sheets` `Google Slides` `Google Forms` |
 
