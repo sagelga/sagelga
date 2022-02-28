@@ -1,15 +1,18 @@
 # Hi!
-Welcome to my GitHub Profile page! Learn more about what I do and what I've done, visit [www.sagelga.com](https://www.sagelga.com/). 
+Greetings! Welcome to my GitHub Profile README. Learn more about what I do and what I've done, visit [www.sagelga.com](https://www.sagelga.com/).
 
-Current writer of [ByteSide.one](https://byteside.one/th/) publication since 2021, available in Thai but also to English. We recently launched new and better website experiences and better loading time. See it for yourself!
+Active writer and founder of [ByteSide.one](https://byteside.one/th/) Technology-based publication since 2020, available in Thai but also to English.<br>
+Speaking of the site, we recently launced a brighter and smarter site for seamless navigation and enjoyment. See it for yourself!
 
 ## Featured Project
-For developers who are using my project, visit [docs.sagelga.com](https://docs.sagelga.com/) for every project's Documentation and User Manual.
+For this year's Featured Project, you can't missed out Documentation.<br>
+Developers who are using my open-sourced project and needed some documentations and user manual can visit [docs.sagelga.com](https://docs.sagelga.com/) for everything you will ever need from us.
 
 ![image](https://user-images.githubusercontent.com/13056824/155845761-8af14779-648d-465b-96d3-bb0848388c57.png)
 
+## About me in GitHub
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=sagelga&hide_border=true&date_format=j%20M%5B%20Y%5D&fire=DD2727)](https://git.io/streak-stats)
 
-## Tl;dr
 ![code-with-sql](https://user-images.githubusercontent.com/13056824/155845674-0e444bd2-d62f-440b-889c-8707cc01b811.svg)
 ![code-with-2-brain-cells](https://user-images.githubusercontent.com/13056824/155845676-14739c48-dcfa-4485-9c48-50da538d600c.svg)
 ![code-with-typescript](https://user-images.githubusercontent.com/13056824/155845678-087ac3bf-8263-4344-a328-884b38a55a41.svg)
