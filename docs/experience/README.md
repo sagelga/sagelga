@@ -1,6 +1,6 @@
 ---
 home: true
-heroText: Experience
+heroText: Working Experience
 tagline: ' '
 footer: Copyright © 2019-2022 Kunanon Srisuntiroj
 ---
@@ -12,19 +12,6 @@ at Essilor Manufacturing (Thailand) / International Management and Services (Tha
 <!-- For projects done during the Cooperative Studies, please click [here]() -->
 
 <br/>
-
-## Hobbit
-*2019 - current*<br>
-**Writer and Curator**<br>
-Writing Explaination and daily news blog; including technology updates, gadgets and lifestyle content. Visit us at [byteside.one](https://byteside.one).
-
-*2019 - current*<br>
-**Thai Language Telegram Translator Lead**<br>
-Initiator for Thai language on Telegram Thai translation pack. Currently having 500+ users in Telegram group and 5,000+ translated word.
-
-*2017 - current*<br>
-**Open Source Contributor**<br>
-Contributes on fan-made Open Source project to spread what I admire to all.
 
 ## Volunteer
 *2018*<br>

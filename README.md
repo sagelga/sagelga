@@ -1,11 +1,12 @@
 # Hi!
 Greetings! Welcome to my GitHub Profile README. Learn more about what I do and what I've done, visit [www.sagelga.com](https://www.sagelga.com/).
 
-Active writer and founder of [ByteSide.one](https://byteside.one/th/) Technology-based publication since 2020, available in Thai but also to English.<br>
+Active writer and founder of [ByteSide.one](https://byteside.one/th/) Thailand-based publication on Gaming and Technology since 2020; available in Thai and soon available in English.
+
 Speaking of the site, we recently launced a brighter and smarter site for seamless navigation and enjoyment. See it for yourself!
 
 ## Featured Project
-For this year's Featured Project, you can't missed out Documentation.
+For this year's 2022 Featured Project, you can't missed out [Documentation](https://docs.sagelga.com/) site.
 
 Developers who are using my open-sourced project and needed some documentations and user manual can visit [docs.sagelga.com](https://docs.sagelga.com/) for everything you will ever need from us.
 
