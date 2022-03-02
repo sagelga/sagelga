@@ -1,14 +1,8 @@
 ---
-home: true
-heroText: All Projects
-tagline: Here's what I have worked on
-actions:
-    - text: View all on GitHub →
-      link: https://github.com/sagelga
-      type: primary
 footer: Copyright © 2019-2022 Kunanon Srisuntiroj
 ---
 
+# All Projects
 ## Byteside.one
 Website / Blog about Gaming, Technology, Analysis with deep-down informations and what-you-need-to-know genre.
 

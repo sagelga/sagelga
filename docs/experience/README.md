@@ -1,10 +1,8 @@
 ---
-home: true
-heroText: Working Experience
-tagline: ' '
 footer: Copyright © 2019-2022 Kunanon Srisuntiroj
 ---
 
+# Career Experience
 ## Work Experience
 *May 2019 - November 2019*<br>
 **Cooperative Studies Student**<br>
@@ -16,7 +14,7 @@ at Essilor Manufacturing (Thailand) / International Management and Services (Tha
 ## Volunteer
 *2018*<br>
 **Senior advisor and referee**<br>
-In 'Website in PHP and JS' competition on IT Open House 2018.
+Advisor and refereee in 'PHP and JavaScript' competition on IT Open House 2018.
 
 *2017*<br>
 **Education Team Member**<br>

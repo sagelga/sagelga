@@ -14,7 +14,7 @@ export default defineUserConfig<DefaultThemeOptions>({
     // logo: 'https://img.icons8.com/fluency/64/000000/layers.png',
 
     navbar: navbar.en,
-    sidebar: sidebar.en,
+    // sidebar: sidebar.en,
 
     repo: "sagelga/sagelga",
     repoLabel: "GitHub",
