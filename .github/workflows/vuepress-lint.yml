@@ -15,7 +15,7 @@ jobs:
 
     steps:
       - name: Checkout Code
-        uses: actions/checkout@latest
+        uses: actions/checkout@master
 
       # Runs the Super-Linter action
       - name: Run Super-Linter
