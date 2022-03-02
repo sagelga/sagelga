@@ -1,10 +1,8 @@
 ---
-home: true
-heroText: Interests and Hobbits
-tagline: ' '
 footer: Copyright © 2019-2022 Kunanon Srisuntiroj
 ---
 
+# Interests and Hobbits
 ## Hobbit
 *2019 - current*<br>
 **Writer and Curator**<br>

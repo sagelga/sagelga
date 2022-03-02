@@ -1,9 +1,7 @@
 ---
-home: true
-heroText: Education
-tagline: ' '
 footer: Copyright © 2019-2022 Kunanon Srisuntiroj
 ---
+# Education
 
 2020<br>
 **Undergraduate Degree**<br>

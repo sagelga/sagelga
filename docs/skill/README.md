@@ -1,10 +1,8 @@
 ---
-home: true
-heroText: Skills
-tagline: ' '
 footer: Copyright © 2019-2022 Kunanon Srisuntiroj
 ---
 
+# Skills
 ## Featured Technical Skills
 ### `SQL`
 Understands most of the generic SQL-based queries. Used to work with SQL and PL/SQL during the Cooperative Studies.
@@ -13,7 +11,7 @@ Understands most of the generic SQL-based queries. Used to work with SQL and PL/
 Used to write PL/SQL, together with XML to create an automatic data report generation by Oracle ERP. The script will generate reports that is pulled from fresh results for manaual deduplication action.
 
 ### `JavaScript`
-Used JavaScript in multiple projects, including this website, documentation website and in Google Apps Script during Cooperative Studies.
+Used JavaScript in multiple projects, including this website, documentation site and in Google Apps Script during Cooperative Studies.
 
 ### `Python`
 Use Python to create a data analysis report as a [mini-project](https://github.com/sagelga/PSIT_Project) for the learning course.

@@ -1,6 +1,6 @@
 ---
 home: true
-heroText: Hello!
+heroText: Hello
 heroImage: https://avatars3.githubusercontent.com/u/13056824?s=150
 tagline: 'Welcome to my personal website. Available for hire.'
 actions:
@@ -33,5 +33,7 @@ Active writer and founder of [ByteSide.one](https://byteside.one/th/) Thailand-b
 Speaking of the site, we recently launced a brighter and smarter site for seamless navigation and enjoyment. See it for yourself!
 
 ## Quick links
-- [docs.sagelga.com]()
+- For developers and end-users, visit [Documentation](https://docs.sagelga.com/)
+- Technology blog at [ByteSide.one](https://byteside.one/th/)
+- Personal blog at [blog.sagelga.com](https://blog.sagelga.com/)
 

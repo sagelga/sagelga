@@ -1,4 +1,4 @@
-# Hi!
+# Hi
 Greetings! Welcome to my GitHub Profile README. Learn more about what I do and what I've done, visit [www.sagelga.com](https://www.sagelga.com/).
 
 Active writer and founder of [ByteSide.one](https://byteside.one/th/) Thailand-based publication on Gaming and Technology since 2020; available in Thai and soon available in English.
