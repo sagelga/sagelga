@@ -16,7 +16,7 @@ jobs:
 
     steps:
       - name: Checkout Code
-        uses: actions/checkout@master
+        uses: actions/checkout@main
 
       - name: Install yarn dependencies
         run: yarn
