@@ -14,12 +14,12 @@ export const en: NavbarConfig = [
     link: "/project/active/",
     children: [
       {
-        text: "Active Projects",
-        link: "/project/active/",
-      },
-      {
         text: "All Project",
         link: "/project/archive/",
+      },
+      {
+        text: "Active Projects",
+        link: "/project/active/",
       },
     ],
   },
@@ -28,16 +28,16 @@ export const en: NavbarConfig = [
     link: "/skill/",
   },
   {
-    text: "Education",
-    link: "/education/",
-  },
-  {
-    text: "Interests",
+    text: "Interests & Hobbies",
     link: "/interests/",
   },
   {
     text: "Experience",
     link: "/experience/",
+  },
+  {
+    text: "Education",
+    link: "/education/",
   },
   {
     text: "Contact",

@@ -2,8 +2,7 @@
 footer: Copyright © 2019-2022 Kunanon Srisuntiroj
 ---
 
-# Career Experience
-## Work Experience
+# Career Experiences
 *May 2019 - November 2019*<br>
 **Cooperative Studies Student**<br>
 at Essilor Manufacturing (Thailand) / International Management and Services (Thailand) Co., Ltd. <br>
