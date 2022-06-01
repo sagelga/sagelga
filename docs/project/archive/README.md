@@ -10,11 +10,23 @@ Website / Blog about Gaming, Technology, Analysis with deep-down information and
 Website: [byteside.one](https://byteside.one/)
 
 ## 2021
+### COVID-19 Interactive Dashboard
+> Currently offline due to Heroku security breach.
+
+Website: [covid.sagelga.com](https://covid.sagelga.com/)
+
+### The Sunny Side Publication
+Previous version of ByteSide.one, hosted in Medium.
+
+Website: [medium.com/the-sunny-side](https://medium.com/the-sunny-side)
+
+## 2020
 ### Documentation
 Creates this website to combine all of my project's User Manual and Documentations in a single website.
 
 Website: [docs.sagelga.com](https://docs.sagelga.com/)
 
+## 2019
 ### Approval Workflow on Google Apps Script
 Creating Approval Workflow for International Management Service Thailand (IMST) using Google Apps Script
 - Highly customizable and easy to adapt to other departments which require different Workflow strategies.
