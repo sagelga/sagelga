@@ -1,49 +1,56 @@
-import { defineUserConfig } from "vuepress";
-import type { DefaultThemeOptions } from "vuepress";
+import { defineUserConfig } from "@vuepress/cli";
+import { defaultTheme } from "@vuepress/theme-default";
+import { googleAnalyticsPlugin } from "@vuepress/plugin-google-analytics";
 import { navbar, sidebar } from "./configs";
 
-export default defineUserConfig<DefaultThemeOptions>({
-  title: "This is me, sagelga",
-  description: "Portfolio of me",
+export default defineUserConfig({
+  // set site base to default value
+  base: "/",
 
-  // https://v2.vuepress.vuejs.org/reference/default-theme/config.html
-  theme: "@vuepress/theme-default",
-  themeConfig: {
-    home: "/",
-
-    // logo: 'https://img.icons8.com/fluency/64/000000/layers.png',
-
-    navbar: navbar.en,
-    // sidebar: sidebar.en,
-
-    repo: "sagelga/sagelga",
-    repoLabel: "GitHub",
-
-    lastUpdated: true,
-    lastUpdatedText: "Last Update (UTC)",
-
-    editLink: true,
-    eidtLinkText: "Edit this page",
-
-    docsRepo: "sagelga/documentation",
-    docsDir: "docs/sagelga",
-    docsBranch: "main",
-  },
-
-  plugins: [
+  // extra tags in `<head>`
+  head: [
     [
-      "@vuepress/plugin-google-analytics",
+      "link",
       {
-        id: "G-G5XLFB3TZH",
+        rel: "stylesheet",
+        href: "https://cdn.jsdelivr.net/github-markdown-css/2.2.1/github-markdown.css",
       },
     ],
-    // ['@vuepress/plugin-search', {
-    //   locales: {
-    //     '/': {
-    //       placeholder: 'Search',
-    //     },
-    //   },
-    // },
-    // ],
+    [
+      "link",
+      {
+        rel: "icon",
+        href: "https://img.icons8.com/fluency/32/000000/layers.png",
+      },
+    ],
+  ],
+
+  locales: {
+    "/": {
+      lang: "en-US",
+      title: "This is me, sagelga",
+      description: "Portfolio of me",
+    },
+  },
+
+  theme: defaultTheme({
+    logo: "https://img.icons8.com/fluency/32/000000/layers.png",
+    repo: "sagelga/sagelga",
+    docsRepo: "sagelga/documentation",
+    docsBranch: "main",
+
+    locales: {
+      "/": {
+        navbar: navbar.en,
+        sidebar: sidebar.en,
+        editLinkText: "Edit this page on GitHub",
+      },
+    },
+  }),
+
+  plugins: [
+    googleAnalyticsPlugin({
+      id: "G-G5XLFB3TZH",
+    }),
   ],
 });
