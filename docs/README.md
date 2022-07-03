@@ -4,20 +4,20 @@ heroText: Welcome
 heroImage: https://avatars3.githubusercontent.com/u/13056824?s=150
 tagline: Kunanon Srisuntiroj's Portfolio page. Available for hire.
 actions:
+  - text: Experiences
+    link: /experience/
+    type: primary
+  - text: Education
+    link: /education/
+    type: primary
   - text: Projects
     link: /project/
     type: primary
   - text: Skills
     link: /skill/
     type: primary
-  - text: Education
-    link: /education/
-    type: primary
   - text: Interests
     link: /interests/
-    type: primary
-  - text: Experiences
-    link: /experience/
     type: primary
   - text: Blog
     link: https://blog.sagelga.com/
