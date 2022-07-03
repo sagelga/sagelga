@@ -19,10 +19,6 @@ export default defineUserConfig({
   },
 
   theme: defaultTheme({
-    repo: "sagelga/sagelga",
-    docsRepo: "sagelga/sagelga",
-    docsBranch: "main",
-
     locales: {
       "/": {
         navbar: navbarEn,

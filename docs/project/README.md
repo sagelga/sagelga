@@ -3,7 +3,7 @@ footer: Copyright © 2019-2022 Kunanon Srisuntiroj
 ---
 
 # All Projects
-## 2022
+
 ### Byteside.one
 Founded ByteSide.one and creates content about Tech, Gaming, International News, and Opinions.
 Currently gained a total of 75k+ PageViews and 1.2M+ Search Impressions (as of March 2022).
@@ -12,12 +12,6 @@ Website: [byteside.one](https://byteside.one/)
 
 ![](./asset/2cffceb438e8a86ee20f883ad5c11461.jpeg)
 
-## 2021
-### COVID-19 Interactive Dashboard
-> Currently offline due to Heroku security breach.
-
-Website: [covid.sagelga.com](https://covid.sagelga.com/)
-
 ### The Sunny Side Publication
 Previous version of ByteSide.one, hosted in Medium.
 
@@ -25,7 +19,6 @@ Website: [https://medium.com/the-sunny-side](https://medium.com/the-sunny-side)
 
 ![](./asset/dfe48212c5b836c5e952c20cf3114017.jpeg)
 
-## 2020
 ### Documentation
 Creates this website to combine all of my project's User Manual and Documentations in a single website.
 
@@ -33,7 +26,6 @@ Website: [docs.sagelga.com](https://docs.sagelga.com/)
 
 ![](./asset/3fd0ead9c730fe65aa3fdf0368958074.jpeg)
 
-## 2019
 ### Approval Workflow on Google Apps Script
 Creating Approval Workflow for International Management Service Thailand (IMST) using Google Apps Script
  - Highly customizable and easy to adapt to other departments which require different Workflow strategies.
@@ -52,7 +44,6 @@ Develops Oracle SQL and PL/SQL script for Asia and Europe Data Management Team, 
  - Also includes similarity scoring and normalization of the Business Entity data.
  - Creates script and report by using Oracle SQL and Oracle ERP.
 
-## 2018
 ### Data Analytics on Body Fat
 Multi regression on relationships between body fat and multiple body part size. Using IBM SPSS Statistics as a tool to create statistical models and data processing.
 
@@ -82,7 +73,6 @@ Trying to find the cause of lots of Thai resteraunt in United States.
 
 Repository : [hhttps://github.com/sagelga/data-journal](https://github.com/sagelga/data-journal)
 
-## 2017
 ### Trash Melody
 Fast-paced OSU! inspired game, created with Java.
 This game is created for educating players about trash categorization and having fun with the game.
