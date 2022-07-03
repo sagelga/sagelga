@@ -5,9 +5,12 @@ footer: Copyright © 2019-2022 Kunanon Srisuntiroj
 # All Projects
 ## 2022
 ### Byteside.one
-Website / Blog about Gaming, Technology, Analysis with deep-down information and what-you-need-to-know genre.
+Founded ByteSide.one and creates content about Tech, Gaming, International News, and Opinions.
+Currently gained a total of 75k+ PageViews and 1.2M+ Search Impressions (as of March 2022).
 
 Website: [byteside.one](https://byteside.one/)
+
+![](./asset/2cffceb438e8a86ee20f883ad5c11461.jpeg)
 
 ## 2021
 ### COVID-19 Interactive Dashboard
@@ -18,7 +21,9 @@ Website: [covid.sagelga.com](https://covid.sagelga.com/)
 ### The Sunny Side Publication
 Previous version of ByteSide.one, hosted in Medium.
 
-Website: [medium.com/the-sunny-side](https://medium.com/the-sunny-side)
+Website: [https://medium.com/the-sunny-side](https://medium.com/the-sunny-side)
+
+![](./asset/dfe48212c5b836c5e952c20cf3114017.jpeg)
 
 ## 2020
 ### Documentation
@@ -26,14 +31,16 @@ Creates this website to combine all of my project's User Manual and Documentatio
 
 Website: [docs.sagelga.com](https://docs.sagelga.com/)
 
+![](./asset/3fd0ead9c730fe65aa3fdf0368958074.jpeg)
+
 ## 2019
 ### Approval Workflow on Google Apps Script
 Creating Approval Workflow for International Management Service Thailand (IMST) using Google Apps Script
-- Highly customizable and easy to adapt to other departments which require different Workflow strategies.
-- Create a User Manual and Documentation for the user and maintainer of this Workflow.
-- The workflow script is being used in IT Department, Requisition Department, and IT Procurement Team (as by the duration of the Studies).
-- The script can be automatically triggered and send emails with Google Forms to according Approver.
-- Creates scripts by JS-flavored script in Google Apps Script.
+ - Highly customizable and easy to adapt to other departments which require different Workflow strategies.
+ - Create a User Manual and Documentation for the user and maintainer of this Workflow.
+ - The workflow script is being used in IT Department, Requisition Department, and IT Procurement Team (as by the duration of the Studies).
+ - The script can be automatically triggered and send emails with Google Forms to according Approver.
+ - Creates scripts by JS-flavored script in Google Apps Script.
 
 Repository : [https://github.com/sagelga/approval-workflow](https://github.com/sagelga/approval-workflow)<br/>
 Documentation : [https://docs.sagelga.com/approval-workflow/](https://docs.sagelga.com/approval-workflow/)
