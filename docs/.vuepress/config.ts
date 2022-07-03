@@ -13,13 +13,12 @@ export default defineUserConfig({
   locales: {
     "/": {
       lang: "en-US",
-      title: "This is me, sagelga",
+      title: "Kunanon Srisuntiroj (sagelga)",
       description: "Portfolio of me",
     },
   },
 
   theme: defaultTheme({
-    logo: "https://img.icons8.com/fluency/32/000000/home.png",
     repo: "sagelga/sagelga",
     docsRepo: "sagelga/sagelga",
     docsBranch: "main",
@@ -28,7 +27,8 @@ export default defineUserConfig({
       "/": {
         navbar: navbarEn,
         sidebar: sidebarEn,
-        editLinkText: "Edit this page on GitHub",
+        editLink: false,
+        contributors: false,
       },
     },
   }),
