@@ -3,37 +3,36 @@ footer: Copyright © 2019-2022 Kunanon Srisuntiroj
 ---
 
 # All Projects
-## 2022
+
 ### Byteside.one
-Website / Blog about Gaming, Technology, Analysis with deep-down information and what-you-need-to-know genre.
+Founded ByteSide.one and creates content about Tech, Gaming, International News, and Opinions.
+Currently gained a total of 75k+ PageViews and 1.2M+ Search Impressions (as of March 2022).
 
 Website: [byteside.one](https://byteside.one/)
 
-## 2021
-### COVID-19 Interactive Dashboard
-> Currently offline due to Heroku security breach.
-
-Website: [covid.sagelga.com](https://covid.sagelga.com/)
+![](./asset/2cffceb438e8a86ee20f883ad5c11461.jpeg)
 
 ### The Sunny Side Publication
 Previous version of ByteSide.one, hosted in Medium.
 
-Website: [medium.com/the-sunny-side](https://medium.com/the-sunny-side)
+Website: [https://medium.com/the-sunny-side](https://medium.com/the-sunny-side)
 
-## 2020
+![](./asset/dfe48212c5b836c5e952c20cf3114017.jpeg)
+
 ### Documentation
 Creates this website to combine all of my project's User Manual and Documentations in a single website.
 
 Website: [docs.sagelga.com](https://docs.sagelga.com/)
 
-## 2019
+![](./asset/3fd0ead9c730fe65aa3fdf0368958074.jpeg)
+
 ### Approval Workflow on Google Apps Script
 Creating Approval Workflow for International Management Service Thailand (IMST) using Google Apps Script
-- Highly customizable and easy to adapt to other departments which require different Workflow strategies.
-- Create a User Manual and Documentation for the user and maintainer of this Workflow.
-- The workflow script is being used in IT Department, Requisition Department, and IT Procurement Team (as by the duration of the Studies).
-- The script can be automatically triggered and send emails with Google Forms to according Approver.
-- Creates scripts by JS-flavored script in Google Apps Script.
+ - Highly customizable and easy to adapt to other departments which require different Workflow strategies.
+ - Create a User Manual and Documentation for the user and maintainer of this Workflow.
+ - The workflow script is being used in IT Department, Requisition Department, and IT Procurement Team (as by the duration of the Studies).
+ - The script can be automatically triggered and send emails with Google Forms to according Approver.
+ - Creates scripts by JS-flavored script in Google Apps Script.
 
 Repository : [https://github.com/sagelga/approval-workflow](https://github.com/sagelga/approval-workflow)<br/>
 Documentation : [https://docs.sagelga.com/approval-workflow/](https://docs.sagelga.com/approval-workflow/)
@@ -45,7 +44,6 @@ Develops Oracle SQL and PL/SQL script for Asia and Europe Data Management Team, 
  - Also includes similarity scoring and normalization of the Business Entity data.
  - Creates script and report by using Oracle SQL and Oracle ERP.
 
-## 2018
 ### Data Analytics on Body Fat
 Multi regression on relationships between body fat and multiple body part size. Using IBM SPSS Statistics as a tool to create statistical models and data processing.
 
@@ -75,7 +73,6 @@ Trying to find the cause of lots of Thai resteraunt in United States.
 
 Repository : [hhttps://github.com/sagelga/data-journal](https://github.com/sagelga/data-journal)
 
-## 2017
 ### Trash Melody
 Fast-paced OSU! inspired game, created with Java.
 This game is created for educating players about trash categorization and having fun with the game.
