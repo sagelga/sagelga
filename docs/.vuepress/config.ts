@@ -1,36 +1,14 @@
 import { defineUserConfig } from "@vuepress/cli";
-import { defaultTheme } from "@vuepress/theme-default";
 import { googleAnalyticsPlugin } from "@vuepress/plugin-google-analytics";
-import { navbar, sidebar } from "./configs";
+import { defaultTheme } from "@vuepress/theme-default";
+import { head, navbarEn, sidebarEn } from "./configs";
 
 export default defineUserConfig({
   // set site base to default value
   base: "/",
 
   // extra tags in `<head>`
-  head: [
-    [
-      "link",
-      {
-        rel: "stylesheet",
-        href: "https://cdn.jsdelivr.net/github-markdown-css/2.2.1/github-markdown.css",
-      },
-    ],
-    [
-      "link",
-      {
-        rel: "icon",
-        href: "https://img.icons8.com/fluency/32/000000/layers.png",
-      },
-    ],
-    [
-      "meta",
-      {
-        name: "google-site-verification",
-        content: "YfryvcUpXvpvzX8xdK2JY2yad89if-kCk1Mo7ogs5Is",
-      },
-    ],
-  ],
+  head,
 
   locales: {
     "/": {
@@ -41,15 +19,15 @@ export default defineUserConfig({
   },
 
   theme: defaultTheme({
-    logo: "https://img.icons8.com/fluency/32/000000/layers.png",
+    logo: "https://img.icons8.com/fluency/32/000000/home.png",
     repo: "sagelga/sagelga",
-    docsRepo: "sagelga/documentation",
+    docsRepo: "sagelga/sagelga",
     docsBranch: "main",
 
     locales: {
       "/": {
-        navbar: navbar.en,
-        sidebar: sidebar.en,
+        navbar: navbarEn,
+        sidebar: sidebarEn,
         editLinkText: "Edit this page on GitHub",
       },
     },

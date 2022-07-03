@@ -6,22 +6,22 @@ tagline: 'Welcome to my personal website. Available for hire.'
 actions:
   - text: Projects
     link: /project/archive/
-    type: secondary
+    type: primary
   - text: Skills
     link: /skill/
-    type: secondary
+    type: primary
   - text: Education
     link: /education/
-    type: secondary
+    type: primary
   - text: Interests
     link: /interests/
-    type: secondary
+    type: primary
   - text: Experiences
     link: /experience/
-    type: secondary
+    type: primary
   - text: Contact
     link: /contact/
-    type: secondary
+    type: primary
 footer: Copyright © 2019-2022 Kunanon Srisuntiroj
 ---
 
