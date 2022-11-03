@@ -9,6 +9,6 @@ And here's some stats that you might not know about my GitHub Contributions.
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=sagelga&hide_border=true&date_format=j%20M%5B%20Y%5D&fire=DD2727)](https://git.io/streak-stats)
 
 ## Quick Link
-- For Deveopers and End-Users who are using my code/program, visit [docs.sagelga.com](https://docs.sagelga.com/) for Documentation
+- For Developers and End-Users who are using my code/program, visit [docs.sagelga.com](https://docs.sagelga.com/) for documentation
 - Technology news and game updates website at [ByteSide.one](https://byteside.one/th/)
 - Personal blog at [blog.sagelga.com](https://blog.sagelga.com/)
