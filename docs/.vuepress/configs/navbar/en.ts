@@ -17,7 +17,7 @@ export const navbarEn: NavbarConfig = [
         text: "External Links",
         children: [
           {
-            text: "GitHub",
+            text: "GitHub @sagelga",
             link: "https://github.com/sagelga",
           },
           {
