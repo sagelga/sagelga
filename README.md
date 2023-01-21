@@ -1,14 +1,16 @@
 # Hello
-Greetings! Welcome to my GitHub Profile README. Learn more about what I do and what I've done, visit [sagelga.com](https://www.sagelga.com/).
+Kunanon "Son" Srisuntiroj is a programmer who has written in Python, JavaScript, SQL, and other coding languages. He has also been involved in various projects, such as developing a Point of Sale System (POS), a Room Reservation System, and an Approval Workflow. Additionally, Kunanon has experience with web development and design, having worked on multiple, variety of projects and web applications.
 
-## About me
-Content Creator of [ByteSide.one](https://byteside.one/th/). A Thailand-based Publication on Gaming and Technology since 2020; available in Thai and soon available in English.
+Kunanon is the founder and content creator of ByteSide.one, a Technology and Gaming publication. ByteSide.one offers content on its website, Facebook Page, Twitter, and YouTube channel. Kunanon is dedicated to providing quality content and has seen the reach of ByteSide.one expand to 2.5 million Website Impressions by Google Search<sup>1</sup> and over 200k monthly Impressions on the ByteSide.one Facebook Page<sup>2</sup> as of September 15, 2020.
 
-## My GitHub Profile Stats
-And here's some stats that you might not know about my GitHub Contributions.
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=sagelga&hide_border=true&date_format=j%20M%5B%20Y%5D&fire=DD2727)](https://git.io/streak-stats)
+At [sagelga.com](www.sagelga.com), you can learn more about Kunanon "Son" Srisuntiroj and his work. Visit and read the documentation of the services developed by Kunanon, such as the Point of Sales System, Room Reserving System, and Approval Workflow, at [docs.sagelga.com](docs.sagelga.com).
 
 ## Quick Link
-- For Developers and End-Users who are using my code/program, visit [docs.sagelga.com](https://docs.sagelga.com/) for documentation
-- Technology news and game updates website at [ByteSide.one](https://byteside.one/th/)
-- Personal blog at [blog.sagelga.com](https://blog.sagelga.com/)
+- For developers and users, visit [docs.sagelga.com](https://docs.sagelga.com/) for more information about Kunanon's services.
+- For readers, visit [ByteSide.one](https://byteside.one/th/) to stay up-to-date with Kunanon's Technology and Gaming content.
+- For readers interested in Kunanon's personal blog, visit [blog.sagelga.com](https://blog.sagelga.com/) to read his thoughts and musings.
+
+## My GitHub Profile Stats
+Kunanon is an active member of the development community, having made contributions to open source projects on GitHub. As of January 2023, Kunanon has committed over 2,000 contributions, opened over 300 issues and pull requests, and contributed to over 20 repository forks.
+
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=sagelga&hide_border=true&date_format=j%20M%5B%20Y%5D&fire=DD2727)](https://git.io/streak-stats)
