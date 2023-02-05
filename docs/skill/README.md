@@ -4,7 +4,6 @@ footer: Copyright © 2019-2022 Kunanon Srisuntiroj
 
 # Skills
 
-
 ## Featured Technical Skills
 ### SQL
 Understands most of the generic SQL-based queries. Used to work with SQL and PL/SQL during the Cooperative Studies.
@@ -51,6 +50,13 @@ POS in terminal based interface is built with POS, analytics with prediction too
 - LAMP
 - VuePress
 
+## Working skills
+- Content creation and writing
+- Research and analysis
+- Social media management
+- Metrics tracking and analysis
+- Time management
+- Collaboration and teamwork
 
 ## Tools familiar with
 ### Project Management

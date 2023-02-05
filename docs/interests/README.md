@@ -2,7 +2,7 @@
 footer: Copyright © 2019-2022 Kunanon Srisuntiroj
 ---
 
-# Interests & Hobbies
+# Hobbies
 #### Writer and Curator
 Curator of ByteSide.one, a curated information and news update website. We currently have over 1.8 million Search Impressions and 100k Total Clicks.
 
