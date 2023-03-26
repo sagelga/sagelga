@@ -13,7 +13,9 @@ At [sagelga.com](www.sagelga.com), you can learn more about Kunanon "Son" Srisun
 - For readers, visit [ByteSide.one](https://byteside.one/th/) to stay up-to-date with Kunanon's Technology and Gaming content.
 - For readers interested in Kunanon's personal blog, visit [blog.sagelga.com](https://blog.sagelga.com/) to read his thoughts and musings.
 
-## My GitHub Profile Stats
-Kunanon is an active member of the development community, having made contributions to open source projects on GitHub. As of January 2023, Kunanon has committed over 2,000 contributions, opened over 300 issues and pull requests, and contributed to over 20 repository forks.
+## Profile Stats
+Kunanon is an active member of the development community, having multiple contributions to open source projects on GitHub. As of January 2023, Kunanon has committed over 2,000 contributions, opened over 300 issues and pull requests, and contributed to over 20 repository forks.
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=sagelga&hide_border=true&date_format=j%20M%5B%20Y%5D&fire=DD2727)](https://git.io/streak-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=sagelga&hide_border=true&fire=DD2727)](https://git.io/streak-stats)
+
+![LeetCode Stats](https://leetcode.card.workers.dev/sagelga?theme=auto&font=&extension=activity)
