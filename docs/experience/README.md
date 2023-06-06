@@ -3,17 +3,6 @@ footer: Copyright © 2019-2022 Kunanon Srisuntiroj
 ---
 
 # Experience
-*November 2022 - current*<br>
-**Analyst**<br>
-at Deloitte Consulting Ltd., (Thailand) <br>
-Working as Salesforce developer in Customer & Marketing portfolio, Digital Customer offerings (also known as Digital Deloitte)
-- Gathered and evaluated clients' business and technical requirements.
-- Designed and implemented technical solutions within Salesforce.
-- Trained clients on Salesforce usage and acted as subject matter expert for Salesforce Clouds.
-- Collaborated with internal, client, and partner stakeholders on solution design and implementation, as well as systems integration
-- Contributed to project deliverables and supported project team to ensure on-time and on-budget completion
-- Proactively monitored end-to-end customer journey to ensure customer satisfaction."
-
 *September 2019 - current*<br>
 **Journalist and Content Creator**<br>
 at ByteSide.one and ByteSide.one World <br>
