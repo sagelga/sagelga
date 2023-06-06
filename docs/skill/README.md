@@ -5,6 +5,8 @@ footer: Copyright © 2019-2022 Kunanon Srisuntiroj
 # Skills
 
 ## Featured Technical Skills
+### Salesforce Apex
+### Salesforce SOQL
 ### SQL
 Understands most of the generic SQL-based queries. Used to work with SQL and PL/SQL during the Cooperative Studies.
 
@@ -26,7 +28,7 @@ Including teaching new students to learn how to use AWS for their own web server
 
 ## Other Technical Skills
 ### Swift
-Currently learning [iOS & Swift - The Complete iOS App Development Bootcamp on Udemy](https://www.udemy.com/course/ios-13-app-development-bootcamp/).
+Currently learning [iOS & Swift - The Complete iOS App Development Bootcamp](https://www.udemy.com/course/ios-13-app-development-bootcamp/) on Udemy.
 
 ### R
 We create the project [data-journal](https://github.com/sagelga/data-journal), a Thai food interests in United States<br>
@@ -74,13 +76,14 @@ POS in terminal based interface is built with POS, analytics with prediction too
 - Gitbook
 - VuePress
 
-### Collaboration Tools
+### Team Collaboration Tools
 - Microsoft Teams
 - Slack
 - Micrsoft OneDrive
 - Micrsoft SharePoint
 - Google Drive
 - Dropbox
+- Zoom
 
 ###  Work Automation
 - Microsoft PowerFlow
@@ -91,9 +94,15 @@ POS in terminal based interface is built with POS, analytics with prediction too
 - GitLab
 - Atlassian BitBucket
 
-### Data Analytics
+### Website Analytics
 - Google Analytics
 - Google Search Console
+- Hotjar
+- Ahrefs
+- Microsoft Clarity
+
+### Data Analytics
+- Tableau
 - SPSS Statistics
 - RapidMiner
 
