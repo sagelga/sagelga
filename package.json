@@ -1,17 +1,18 @@
 {
-  "name": "sagelga",
-  "version": "1.0.0",
-  "main": "index.js",
-  "repository": "https://github.com/sagelga/sagelga",
-  "author": "Kunanon Srisuntiroj <son9912@gmail.com>",
-  "license": "UNLICENSED",
-  "devDependencies": {
-    "@vuepress/plugin-google-analytics": "next",
-    "@vuepress/plugin-search": "next",
-    "vuepress": "next"
-  },
-  "scripts": {
-    "dev": "vuepress dev docs",
-    "build": "vuepress build docs"
-  }
+    "name": "sagelga",
+    "version": "1.0.0",
+    "main": "index.js",
+    "repository": "https://github.com/sagelga/sagelga",
+    "author": "Kunanon Srisuntiroj <son9912@gmail.com>",
+    "license": "UNLICENSED",
+    "devDependencies": {
+        "@vuepress/plugin-google-analytics": "next",
+        "@vuepress/plugin-search": "next",
+        "vuepress": "next"
+    },
+    "scripts": {
+        "dev": "vuepress dev docs",
+        "build": "vuepress build docs"
+    },
+    "packageManager": "yarn@3.6.1"
 }
