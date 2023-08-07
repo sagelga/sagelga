@@ -343,4 +343,3 @@ $RECYCLE.BIN/
 .pnp.*
 
 # End of https://www.toptal.com/developers/gitignore/api/vue,node,macos,vuejs,windows,jetbrains+all,visualstudiocode,yarn
-yarn.lock
