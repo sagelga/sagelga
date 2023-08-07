@@ -18,6 +18,18 @@ export const navbarEn: NavbarConfig = [
                     { text: 'Interests', link: '/interests/' },
                 ],
             },
+            {
+                text: 'Internet Profiles',
+                children: [
+                    { text: 'GitHub', link: 'https://github.com/sagelga/' },
+                    {
+                        text: 'Trailblazer (Salesforce)',
+                        link: 'https://trailblazer.me/id/sagelga',
+                    },
+                    { text: 'LinkedIn', link: 'https://github.com/sagelga/' },
+                    { text: 'Leetcode', link: 'https://leetcode.com/sagelga/' },
+                ],
+            },
         ],
     },
     {
@@ -44,14 +56,21 @@ export const navbarEn: NavbarConfig = [
                         link: 'https://prepro.sagelga.com/',
                     },
                     {
-                        text: 'Pre-programming (Legacy)',
-                        link: 'https://prepro60.sagelga.com/',
+                        text: 'Weather',
+                        link: 'https://weather.sagelga.com/',
                     },
                     {
                         text: 'Telegram Thai',
                         link: 'https://telegram.sagelga.com/',
                     },
-                    { text: 'Cheatsheet', link: 'https://learn.sagelga.com/' },
+                    {
+                        text: 'Pre-programming (Legacy)',
+                        link: 'https://prepro60.sagelga.com/',
+                    },
+                    {
+                        text: 'Cheatsheet (deprecated',
+                        link: 'https://learn.sagelga.com/',
+                    },
                 ],
             },
         ],
@@ -60,12 +79,17 @@ export const navbarEn: NavbarConfig = [
         text: 'Documentation',
         children: [
             {
-                text: 'Documentation',
+                text: 'Documentation Website',
                 children: [
                     {
                         text: 'Docs.sagelga.com',
                         link: 'https://docs.sagelga.com/',
                     },
+                ],
+            },
+            {
+                text: 'Projects',
+                children: [
                     {
                         text: 'Approval Workflow',
                         link: 'https://docs.sagelga.com/approval-workflow/',
@@ -104,18 +128,7 @@ export const navbarEn: NavbarConfig = [
     },
     {
         text: 'Blog',
-        children: [
-            {
-                text: 'Personal Blog',
-                children: [
-                    {
-                        text: 'Blog.sagelga.com',
-                        link: 'https://blog.sagelga.com/',
-                    },
-                    { text: 'Medium.com', link: 'https://medium.com/@sagelga' },
-                ],
-            },
-        ],
+        link: 'https://blog.sagelga.com/',
     },
     {
         text: 'ByteSide.one',
@@ -170,12 +183,11 @@ export const navbarEn: NavbarConfig = [
                 ],
             },
             {
-                text: 'Internet Profiles',
+                text: 'Business Email',
                 children: [
-                    { text: 'GitHub', link: 'https://github.com/sagelga/' },
                     {
-                        text: 'Trailblazer.me (Salesforce)',
-                        link: 'https://trailblazer.me/id/sagelga',
+                        text: 'Email me',
+                        link: 'mailto:kunanonsrisuntiroj@outlook.com',
                     },
                 ],
             },
