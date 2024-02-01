@@ -725,13 +725,11 @@ __metadata:
   linkType: hard
 
 "@vuepress/plugin-google-analytics@npm:next":
-  version: 2.0.0-beta.66
-  resolution: "@vuepress/plugin-google-analytics@npm:2.0.0-beta.66"
-  dependencies:
-    "@vuepress/client": 2.0.0-beta.66
-    "@vuepress/core": 2.0.0-beta.66
-    "@vuepress/utils": 2.0.0-beta.66
-  checksum: e08cd699b40c1c4e18a65f9e3d6cc7993ff8e0f618ffa0413b0ae6f299e0d3366bbd91895b7e14914ee7166f274c0e7c505aebad7007cdf4ce7a338b0b0aa7db
+  version: 2.0.0-rc.3
+  resolution: "@vuepress/plugin-google-analytics@npm:2.0.0-rc.3"
+  peerDependencies:
+    vuepress: 2.0.0-rc.2
+  checksum: a4fafc422b595dc13a3f7c2f85be8e81696897878deb74a2070b6fd68e8d05d4984df7747777ff2a40aa6950e312bcf7b995b13e598b0c371135f3165046f44c
   languageName: node
   linkType: hard
 
