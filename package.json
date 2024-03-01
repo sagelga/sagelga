@@ -8,7 +8,7 @@
     "devDependencies": {
         "@vuepress/plugin-google-analytics": "next",
         "@vuepress/plugin-search": "next",
-        "prettier": "3.0.1",
+        "prettier": "3.2.5",
         "vuepress": "next"
     },
     "scripts": {
