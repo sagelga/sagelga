@@ -1,0 +1,1 @@
+const t=JSON.parse('{"key":"v-92504580","path":"/education/","title":"Education","lang":"en-US","frontmatter":{"footer":"Copyright © 2019-2022 Kunanon Srisuntiroj"},"headers":[],"git":{},"filePathRelative":"education/README.md"}');export{t as data};
