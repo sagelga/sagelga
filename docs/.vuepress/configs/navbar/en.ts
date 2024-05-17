@@ -82,7 +82,7 @@ export const navbarEn: NavbarConfig = [
                 text: 'Documentation Website',
                 children: [
                     {
-                        text: 'Docs.sagelga.com',
+                        text: 'All Documentations',
                         link: 'https://docs.sagelga.com/',
                     },
                 ],
@@ -91,7 +91,7 @@ export const navbarEn: NavbarConfig = [
                 text: 'Projects',
                 children: [
                     {
-                        text: 'Approval Workflow',
+                        text: 'Google Apps Script Approval Workflow',
                         link: 'https://docs.sagelga.com/approval-workflow/',
                     },
                     {
@@ -99,7 +99,7 @@ export const navbarEn: NavbarConfig = [
                         link: 'https://docs.sagelga.com/codenames/',
                     },
                     {
-                        text: 'Compro Project',
+                        text: 'POS System (Compro Project)',
                         link: 'https://docs.sagelga.com/compro-project/',
                     },
                     {
@@ -137,7 +137,7 @@ export const navbarEn: NavbarConfig = [
                 text: 'ByteSide.one',
                 children: [
                     {
-                        text: 'Website (TH)',
+                        text: 'Website',
                         link: 'https://www.byteside.one/th/',
                     },
                     {
