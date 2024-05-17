@@ -1,21 +1,20 @@
 ---
-footer: Copyright © 2019-2022 Kunanon Srisuntiroj
+footer: Copyright © 2019-2024 Kunanon Srisuntiroj
 ---
 
 # All Projects
 
 ### Byteside.one
 
-Founded ByteSide.one and creates content about Tech, Gaming, International News, and Opinions.
-Currently gained a total of 75k+ PageViews and 1.2M+ Search Impressions (as of March 2022).
+ByteSide.one offers Tech, Gaming, International News, and Opinions. We covers website, Facebook Page, Twitter, and YouTube channel which has grown steadily over time. Kunanon is dedicated to providing quality content and has seen the reach of ByteSide.one expand to 2.79 million Website Impressions by Google Search<sup>1</sup> and over 200k monthly Impressions on the ByteSide.one Facebook Page<sup>2</sup> as of January 21, 2023.
 
-Website: [byteside.one](https://byteside.one/)
+Website: [ByteSide.one](https://byteside.one/)
 
 ![](./asset/2cffceb438e8a86ee20f883ad5c11461.jpeg)
 
 ### The Sunny Side Publication
 
-Previous version of ByteSide.one, hosted in Medium.
+The Sunny Side publication is the first and only publication of Kunanon before moving all of his content to ByteSide.one. The publication are hosted in Medium.
 
 Website: [https://medium.com/the-sunny-side](https://medium.com/the-sunny-side)
 

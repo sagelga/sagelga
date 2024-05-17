@@ -1,5 +1,5 @@
 ---
-footer: Copyright © 2019-2022 Kunanon Srisuntiroj
+footer: Copyright © 2019-2024 Kunanon Srisuntiroj
 ---
 
 # Education
